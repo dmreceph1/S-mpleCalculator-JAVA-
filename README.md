@@ -1,1 +1,1 @@
-# S-mpleCalculator-JAVA-
+# SımpleCalculator-JAVA-
